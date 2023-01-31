@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@900&family=Outfit:wght@300&display=swap");
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .map{
+    height: 685px;
+width: 1440px;
+  }
+.mid{
+    height: 548px;
+width: 1440px;
+background-color:  #151515;
+padding-top: 104px;
+padding-left: 300px;
+
+}
+h1{
+    font-family: 'Big Shoulders Display';
+font-style: normal;
+font-weight: 900;
+font-size: 70px;
+line-height: 70px;
+color: #FFFFFF;
+height: 140px;
+width: 350px;
+
+
+}
+.inf{
+    margin-top: -135px;
+    margin-left: 435px;
+}
+h2{
+    height: 36px;
+width: 350px;
+font-family: 'Big Shoulders Display';
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 36px;
+color: #D5966C;
+
+
+}
+.same{
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 300;
+font-size: 22px;
+line-height: 32px;
+color: #FFFFFF;
+
+}
+h3{
+    margin-top: 24px;
+}
+h6{
+    margin-top: 32px;
+    height: 128px;
+width: 540px;
+
+
+}
+.bottom{
+    height: 244px;
+width: 1440px;
+background: #D5966C;
+padding-top: 80px;
+padding-left: 165px;
+display: flex;
+
+}
+.lg{
+    height: 58px;
+width: 159.57235717773438px;
+
+
+}
+.btm{
+    height: 84px;
+width: 430px;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 28px;
+color: #151515;
+margin-left: 140px;
+}
+.soc{
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    margin-left: 280px;
+}
+.box{
+    height: 72px;
+width: 56px;
+background: #D5966C;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+.hm{
+    font-family: 'Big Shoulders Display';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+height: 24px;
+width: 141px;
+color: #FFFFFF;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top:24px;
+
+
+}
+.button{
+    height: 72px;
+width: 208px;
+background-color: #151515;
+position: absolute;
+display: flex;
+margin-left: 156px;
+
+
+}

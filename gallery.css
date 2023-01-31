@@ -1,0 +1,205 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@900&family=Outfit:wght@300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.hero {
+  width: 540px;
+  height: 800px;
+}
+.top {
+  width: 990px;
+  height: 800px;
+  background-color: #151515;
+  display: flex;
+  justify-content: flex-end;
+}
+h1 {
+  font-family: "Big Shoulders Display";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 88px;
+  position: absolute;
+  top: 150px;
+  left: 165px;
+  width: 514px;
+  height: 176px;
+}
+h2 {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 32px;
+  color: #444444;
+  height: 160px;
+  width: 350px;
+}
+.loc {
+  background-color: #151515;
+  color: #ffffff;
+  height: 72px;
+  width: 204px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 64px;
+}
+.arrow {
+  height: 24px;
+  width: 8px;
+}
+.bt {
+  background: #d5966c;
+  height: 72px;
+  width: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  font-family: "Big Shoulders Display";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-top: 24px;
+  margin-left: 22px;
+}
+.ourlocation {
+  position: absolute;
+  top: 190px;
+  left: 925px;
+}
+.txt {
+  margin-left: 165px;
+  margin-top: 240px;
+  width: 350px;
+  height: 280px;
+}
+h3 {
+  font-family: "Big Shoulders Display";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 60px;
+  line-height: 60px;
+  color: #151515;
+  text-transform: uppercase;
+  height: 120px;
+  width: 350px;
+}
+h4 {
+  margin-top: 32px;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 32px;
+  color: #444444;
+  height: 128px;
+  width: 350px;
+}
+.xmid {
+  height: 1150px;
+  width: 1110px;
+}
+.im1 {
+  height: 400px;
+  width: 635px;
+  position: absolute;
+  left: 640px;
+  top: 980px;
+}
+.im2 {
+  height: 313px;
+  width: 445px;
+  position: absolute;
+  left: 830px;
+  top: 1410px;
+}
+.im3 {
+  height: 720px;
+  width: 635px;
+  position: absolute;
+  left: 165px;
+  top: 1410px;
+}
+.invitation {
+  height: 377px;
+  width: 445px;
+  background: #151515;
+  padding-top: 65px;
+  position: absolute;
+  left: 830px;
+  top: 1753px;
+}
+h5 {
+  font-family: "Big Shoulders Display";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 60px;
+  line-height: 60px;
+  color: #ffffff;
+
+  margin-left: 48px;
+}
+h6 {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 32px;
+  color: #ffffff;
+  margin-top: 32px;
+  margin-left: 48px;
+}
+.bottom {
+  background-color: #151515;
+  position: absolute;
+  top: 2310px;
+  left: 0;
+  width: 1440px;
+  height: 244px;
+  background: #151515;
+  display: flex;
+}
+.lg {
+  margin-top: 80px;
+  margin-left: 165px;
+  height: 58px;
+  width: 160px;
+}
+.btm {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  color: #ffffff;
+  width: 430px;
+  height: 84px;
+  text-align: left;
+  margin-left: 140px;
+  margin-top: 80px;
+}
+.fb {
+  height: 20px;
+  width: 20px;
+}
+.ins {
+  height: 20px;
+  width: 20px;
+}
+.tw {
+  height: 16.253334045410156px;
+  width: 20px;
+}
+.soc {
+  display: flex;
+  margin-top: 80px;
+  margin-left: 280px;
+  width: 100px;
+  justify-content: space-between;
+}
